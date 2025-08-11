@@ -1,6 +1,6 @@
 # Deploying the Credit Card Fraud Detection App
 
-This guide explains how to set up and run the containerized Credit Card Fraud Detection application in a Linux environment (local machine or AWS EC2).
+This steps explains how to set up and run the containerized Credit Card Fraud Detection application in a Linux environment (local machine or AWS EC2).
 
 ---
 
